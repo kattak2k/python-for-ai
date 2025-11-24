@@ -18,8 +18,8 @@
 ![embeddings](image-8.png)
 ![Chunks and Index](image-10.png)
 
-#stuff method
+# stuff method
 ![alt text](image-11.png)
 ![addtional method](image-12.png)
-stuff and map_reduce are most frequestly used methods
+# stuff and map_reduce are most frequestly used methods
 
